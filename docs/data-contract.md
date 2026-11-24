@@ -3,7 +3,7 @@
 资料用于本地业务流程演练，字段仅记录事实来源，不预先裁定业务结果。
 
 - `channels.csv`：展览讲解入口及启停时间。字段为 `channel_id, channel_type, exhibit_id, active_from, active_to, entry_context, campaign_ref`。
-- `events.csv`：入口曝光、阅读、播放和反馈事件，参与者代号仅用于演练。字段为 `event_id, channel_id, visitor_token, event_at, event_type, content_id, consent_state, session_key`。
+- `events.csv`：入口曝光、阅读、播放和反馈事件，参与者代号仅用于演练。字段为 `event_id, channel_id, visitor_token, language, age_band, event_at, event_type, content_id, consent_state, session_key`。
 - `aggregation_requests.csv`：受众切片请求及发布状态。字段为 `request_id, period, dimension_set, minimum_group, requested_by, state, created_at`。
 - `venue_counts.csv`：馆内场次客流和讲解活动签到汇总，用于与数字渠道口径对照。字段为 `record_id, exhibit_id, gallery_id, period, visitors, guided_visitors, measurement, source_ref`。
 
