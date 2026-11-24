@@ -1,0 +1,4 @@
+record_id,exhibit_id,gallery_id,period,visitors,guided_visitors,measurement,source_ref
+VC-1,EX-1,gallery-a,2027-02-10,126,34,gate-counter,M-11
+VC-2,EX-1,gallery-b,2027-02-10,81,20,manual-tally,M-12
+VC-3,EX-1,gallery-a,2027-02-17,143,39,gate-counter,M-13

@@ -1,0 +1,5 @@
+event_id,channel_id,visitor_token,event_at,event_type,content_id,consent_state,session_key
+EV-1,CH-1,T-01,2027-02-10T10:04,open,C-1,granted,S-11
+EV-2,CH-2,T-01,2027-02-10T10:07,complete,C-1,granted,S-12
+EV-3,CH-3,,2027-02-17T15:20,open,C-2,unknown,S-19
+EV-4,CH-1,T-02,2027-02-18T11:25,withdrawal,,withdrawn,S-21

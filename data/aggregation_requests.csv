@@ -1,0 +1,4 @@
+request_id,period,dimension_set,minimum_group,requested_by,state,created_at
+AR-1,2027-02,"channel,language",8,team-a,review,2027-03-01
+AR-2,2027-02,"channel,age-band",6,team-b,draft,2027-03-02
+AR-3,2027-03,"exhibit,channel",10,team-a,draft,2027-04-01

@@ -1,0 +1,4 @@
+channel_id,channel_type,exhibit_id,active_from,active_to,entry_context,campaign_ref
+CH-1,gallery-qr,EX-1,2027-02-01,2027-04-30,gallery-a,CP-1
+CH-2,ticket-email,EX-1,2027-02-01,2027-04-30,pre-visit,CP-1
+CH-3,social-link,EX-1,2027-02-15,2027-03-15,external,CP-2
